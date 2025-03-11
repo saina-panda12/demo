@@ -44,7 +44,7 @@
     ],
     "allowed_accounts": [],
     "instance_profile": false,
-    "permissions_boundary": "",
+    "permissions_boundary": "arn:aws:iam::123456789012:policy/AppSyncBoundaryPolicy",
     "tags": {}
   }
 }
